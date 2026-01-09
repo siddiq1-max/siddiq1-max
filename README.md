@@ -6,8 +6,8 @@ My portfoliyo: https://siddiq1-max.github.io/my_portfoliyo/
 
 - 👯 I’m looking to collaborate on:Beginner AI/MLor python-based project [ENd to ENd ML project](https://github.com/llSourcell/learn-machine-learning)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Siddiq-S](https://github.com/Siddiq-S)
-
+- 👨‍💻 All of my projects are available at 
+https://github.com/siddiq1-max/siddiq1-max
 - 📝 I regularly write articles on [(Leave blank if you don’t have a blog yet, or you can write "Coming soon!")]((Leave blank if you don’t have a blog yet, or you can write "Coming soon!"))
 
 - 💬 Ask me about **pythen basics,Ai concepts,and learnig resourses,embedded system**

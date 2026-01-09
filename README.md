@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm siddiq.s</h1>
-<h3 align="center">"Future Tech Maker|Learner AI,Web Dev& More|ECE final year student|t</h3>
-
+<h3 align="center">"Future Tech Maker|Learner AI,Web Dev& More|ECE final year student|t
+ </h3>
+https://siddiq1-max.github.io/my_portfoliyo/
 - 🌱 I’m currently learning **Ai, fundementals, python frameworks and basic fame work**
 
 - 👯 I’m looking to collaborate on:Beginner AI/MLor python-based project [ENd to ENd ML project](https://github.com/llSourcell/learn-machine-learning)
